@@ -7,7 +7,4 @@ LINK TO MY GOOGLE COLAB HAMOYE NOTEBOOK : https://colab.research.google.com/driv
 - 📫 Mail : ayushbhaiya100@gmail.com
 
 
-<!---
-AyushK-101/AyushK-101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
