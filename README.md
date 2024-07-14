@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ayush Kumar<br>👀 Interested in working on Web Development and Machine Learning projects<br>🌱 Currently studying NLPs<br>💞️ Exploring the world of Open Source<br>📫 Mail: ayushsayshi250@gmail.com
+👋 Hi, I’m Ayush Kumar<br>👀 Interested in working on Web Development and Machine Learning projects<br>🌱 Currently studying NLP<br>💞️ Exploring the world of Open Source<br>📫 Mail: ayushsayshi250@gmail.com
 
 
 ## 🌐 Socials:
